@@ -1,7 +1,7 @@
 # Excel dashboard Bike Sale
 
 
-#### A dashboard to explore bike sale.
+#### A simple dashboard to explore bike sale.
 #### It has different filters to explore things like:
 ##### - Sex variations
 ##### - Region
