@@ -25,5 +25,3 @@ If you have any questions or feedback regarding the Excel dashboard Bike Sale pr
 
 - Email: [eliasmengesha2@gmial.com](mailto:eliasmengesha2@gmial.com)
 - GitHub: [e1iasm](https://github.com/e1iasm)
-
-Please note that the project in this repository is provided as-is and may not be actively maintained or updated.
