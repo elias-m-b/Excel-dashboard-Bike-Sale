@@ -6,7 +6,14 @@ This repository contains an Excel dashboard project for exploring bike sales. Th
 
 - `Dashboard Screenshot.png`: This file is a screenshot of the Excel dashboard, giving you a preview of its design and layout.
 - `README.md`: This file provides information about the repository and the project.
-<div style="position: relative; padding-bottom: 56.162246489859605%; height: 0;"><iframe src="https://www.loom.com/embed/42153d3dd7344582b258ebb6ecbd88f6?sid=8919ca42-1118-4544-b176-60c689d5ec60" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div>
+    <a href="https://www.loom.com/share/42153d3dd7344582b258ebb6ecbd88f6">
+      <p>Simple Dashboard for Bike Sales - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/42153d3dd7344582b258ebb6ecbd88f6">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/42153d3dd7344582b258ebb6ecbd88f6-1697927372695-with-play.gif">
+    </a>
+</div>
 
 ## About
 
