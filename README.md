@@ -17,7 +17,7 @@ This repository contains an Excel dashboard project for exploring bike sales. Th
 
 ## About
 
-The Excel dashboard Bike Sale project is a guided project that aims to teach the process of creating interactive dashboards in Excel. The project focuses on improving design aesthetics and providing an intuitive user experience. It also mentions Alex The Analyst on YouTube as a resource to check out.
+The Bike Sale dashboard is a guided project. Using  different Excel features to create an interactive dashboards. The project focuses on improving design aesthetics of the original dashboard made by Alex The Analyst on YouTub and providing an intuitive user experience.
 
 ## Contact
 
